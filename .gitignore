@@ -1,0 +1,12 @@
+
+*.npy
+
+*.anim
+
+Fullmodel_innerjoint/animationR/archive/.DS_Store
+
+Fullmodel_innerjoint/animationR/.DS_Store
+
+Fullmodel_innerjoint/workR/.DS_Store
+
+.DS_Store
